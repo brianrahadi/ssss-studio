@@ -82,7 +82,7 @@ export const Footer: React.FC = () => {
             alt="Discord icon"
           />
           <SocialIcon
-            href="https://github.com/ssss-sfu"
+            href="https://github.com/brianrahadi/ssss-studio"
             src={GithubIcon.src}
             alt="Discord icon"
           />
